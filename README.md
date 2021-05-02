@@ -6,3 +6,4 @@ The measured values are then send back to the Mobile App and display.
 
 # Credit
 Hariharan Mathavan https://www.allaboutcircuits.com/projects/communicate-with-your-arduino-through-android/
+UsbSerial Library https://github.com/felHR85/UsbSerial
